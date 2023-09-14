@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trippy/static/css/main.2a6ae846.css",
+    "main.js": "/trippy/static/js/main.43e539e3.js",
+    "static/media/logow.png": "/trippy/static/media/logow.0f9aec45fe3743e64017.png",
+    "index.html": "/trippy/index.html",
+    "main.2a6ae846.css.map": "/trippy/static/css/main.2a6ae846.css.map",
+    "main.43e539e3.js.map": "/trippy/static/js/main.43e539e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6ae846.css",
+    "static/js/main.43e539e3.js"
+  ]
+}
